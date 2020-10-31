@@ -1,0 +1,5 @@
+const SET_CURRENT_NEWS = 'SET_CURRENT_NEWS';
+
+export {
+  SET_CURRENT_NEWS
+}
